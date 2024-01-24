@@ -2,7 +2,6 @@
 ## Pre - requisites
 
 - Python 3.10
-- Django (4.2)
 
 ## .env Configuration
 For configuring environment variables, create a .env file in the project's root directory. You can use the .env.example file as a reference. This file contains the necessary environment variables that your project requires. Rename the .env.example file to .env and fill in the appropriate values for your configuration.
