@@ -12,8 +12,8 @@ For configuring environment variables, create a .env file in the project's root 
 1. **Clone the repository**
 
     ```bash
-    git clone https://github.com/programando-com-edu/RachAqui-DjangoRest.git
-    cd rachaqui
+    git clone https://github.com/programando-com-edu/Movie-Recomendation.git
+    cd FlickPicks
     ```
 
 2. **Create a Virtual Environment**
