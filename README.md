@@ -1,4 +1,4 @@
-# Project RachAqui
+# Project Movie Recomendation
 ## Pre - requisites
 
 - Python 3.10
